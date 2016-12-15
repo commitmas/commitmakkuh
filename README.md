@@ -4,7 +4,7 @@ Commitmakkuh is an 8-day spinoff of Commitmas to focus back in on the basics of 
 
 ## from December 24 - January 1
 
-![the Hanukkat](https://octodex.github.com/images/hanukkat.png)
+<img width="1276" alt="the Hanukkat" src="https://cloud.githubusercontent.com/assets/1744971/21210078/48d33fd6-c22d-11e6-9737-76bab2fce603.png">
 
 ### Useful to Me?
 * If you feel inexperienced with git, markdown and GitHub
